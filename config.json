@@ -32,15 +32,15 @@
 		"premium" : false,
 		"all" : false
 	},
-	"iosImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-	"iosUrl" : {
+	"macintoshImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
+	"macintoshUrl" : {
 		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
 		"membership" : "",
 		"cg" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-CG-Mobile&utm_campaign=FlashSale-0919",
 		"prologmateri" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Prolog-Materi-Mobile&utm_campaign=FlashSale-0919",
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
-	"iosRole" : {
+	"macintoshRole" : {
 		"inactive" : true,
 		"guest" : false,
 		"member" : false,
