@@ -1,5 +1,5 @@
 {
-	"status" : "true",
+    "status" : "true",
 	"startDate" : "2019 10 06 12 0 0",
 	"endDate" : "2019 10 20 23 59 59",
     "desktopImg" : {
@@ -59,9 +59,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"macintoshRole" : {
-		"inactive" : true,
-		"guest" : false,
-		"member" : false,
+		"inactive" : false,
+		"guest" : true,
+		"member" : true,
 		"premium" : false,
 		"all" : false
 	},
@@ -80,9 +80,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"iphoneRole" : {
-		"inactive" : true,
-		"guest" : false,
-		"member" : false,
+		"inactive" : false,
+		"guest" : true,
+		"member" : true,
 		"premium" : false,
 		"all" : false
 	}
