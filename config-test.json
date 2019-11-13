@@ -1,10 +1,10 @@
 {
-    "status" : "true",
-	"startDate" : "2019 10 06 12 0 0",
-	"endDate" : "2019 10 20 23 59 59",
+	"status" : "true",
+	"startDate" : "2019 10 12 12 0 0",
+	"endDate" : "2019 10 20 20 59 59",
     "desktopImg" : {
 		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner-copy.jpg",
-		"membership" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
+		"membership" : "https://zeniuseducation.com/wp-content/uploads/2019/11/test-banner-to.png",
 		"cg" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
 		"prologmateri" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
 		"downloadSoal" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg"	
@@ -45,11 +45,11 @@
 		"all" : false
 	},
     "macintoshImg" : {
-		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-		"membership" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-		"cg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-		"prologmateri" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png"	
+		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
+		"membership" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
+		"cg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
+		"prologmateri" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
+		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg"	
 	},
     "macintoshUrl" : {
 		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
@@ -59,18 +59,18 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"macintoshRole" : {
-		"inactive" : true,
-		"guest" : false,
-		"member" : false,
+		"inactive" : false,
+		"guest" : true,
+		"member" : true,
 		"premium" : false,
 		"all" : false
 	},
     "iphoneImg" : {
-		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
-		"membership" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
-		"cg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
-		"prologmateri" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
-		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg"	
+		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
+		"membership" : "",
+		"cg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
+		"prologmateri" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
+		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg"	
 	},
     "iphoneUrl" : {
 		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
@@ -80,9 +80,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"iphoneRole" : {
-		"inactive" : true,
-		"guest" : false,
-		"member" : false,
+		"inactive" : false,
+		"guest" : true,
+		"member" : true,
 		"premium" : false,
 		"all" : false
 	}
