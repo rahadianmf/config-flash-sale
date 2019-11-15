@@ -103,7 +103,7 @@
                                           (cond 
                                             (= current-url "/")
                                               (if (not= (gobj/getValueByKeys value #js["mobileUrl" "home"]) "") (.setAttribute link-mobile "href" (gobj/getValueByKeys value #js["mobileUrl" "home"])))
-                                            (= current-url "/membership")
+                                      Macintosh      (= current-url "/membership")
                                               (if (not= (gobj/getValueByKeys value #js["mobileUrl" "membership"]) "") (.setAttribute link-mobile "href" (gobj/getValueByKeys value #js["mobileUrl" "membership"])))
                                             (string/includes? current-url "/prologmateri")
                                               (if (not= (gobj/getValueByKeys value #js["mobileUrl" "prologmateri"]) "") (.setAttribute link-mobile "href" (gobj/getValueByKeys value #js["mobileUrl" "prologmateri"])))
