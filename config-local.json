@@ -1,8 +1,8 @@
 {
     "status" : true,
-	"startDate" : "November 13 2019 10:10:10",
-    "endDate" : "November 20 2019 23:59:59",
-    "imgMethod" : "page",
+	"startDate" : "2019 10 13 10 10 10",
+    "endDate" : "2019 10 20 23 59 59",
+    "imageMethod" : "page",
     "desktopImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner-copy.jpg",
 		"member" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
