@@ -1,7 +1,8 @@
 {
-	"status" : "true",
-	"startDate" : "2019 10 12 12 0 0",
-	"endDate" : "2019 10 20 20 59 59",
+    "status" : true,
+	"startDate" : "2019 10 13 10 10 10",
+    "endDate" : "2019 10 20 23 59 59",
+    "imageMethod" : "page",
     "desktopImg" : {
 		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner-copy.jpg",
 		"membership" : "https://zeniuseducation.com/wp-content/uploads/2019/11/test-banner-to.png",
@@ -22,7 +23,7 @@
 		"member" : true,
 		"premium" : false,
 		"all" : false
-	},
+    },
     "mobileImg" : {
 		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
 		"membership" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
@@ -43,7 +44,7 @@
 		"member" : true,
 		"premium" : false,
 		"all" : false
-	},
+    },
     "macintoshImg" : {
 		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
 		"membership" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
@@ -59,12 +60,12 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"macintoshRole" : {
-		"inactive" : false,
-		"guest" : true,
-		"member" : true,
+		"inactive" : true,
+		"guest" : false,
+		"member" : false,
 		"premium" : false,
 		"all" : false
-	},
+    },
     "iphoneImg" : {
 		"home" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.jpg",
 		"membership" : "",
@@ -80,9 +81,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"iphoneRole" : {
-		"inactive" : false,
-		"guest" : true,
-		"member" : true,
+		"inactive" : true,
+		"guest" : false,
+		"member" : false,
 		"premium" : false,
 		"all" : false
 	}
