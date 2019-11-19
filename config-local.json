@@ -2,10 +2,10 @@
     "status" : true,
 	"startDate" : "2019 10 13 10 10 10",
     "endDate" : "2019 10 20 23 59 59",
-	"imageMethod" : "page",
+	"imageMethod" : "role",
 	
     "desktopImgByRole" : {
-		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner-copy.jpg",
+		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/test-banner-to.png",
 		"member" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
 		"premium" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
 		"all" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg"	
