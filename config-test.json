@@ -3,7 +3,6 @@
 	"startDate" : "2019 11 03 10 10 10",
 	"endDate" : "2019 11 03 23 59 59",
 	"imageMethod" : "page",
-	
     "desktopImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/test-banner-to.png",
 		"member" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
@@ -43,7 +42,6 @@
 		"premium-verified" : false,
 		"all" : false
 	},
-	
     "mobileImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
 		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
@@ -83,7 +81,6 @@
 		"premium-verified" : false,
 		"all" : false
 	},
-	
     "macintoshImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
 		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
@@ -123,7 +120,6 @@
 		"premium-verified" : false,
 		"all" : false
 	},
-	
     "iphoneImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
 		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
