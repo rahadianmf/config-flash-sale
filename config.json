@@ -3,7 +3,6 @@
 	"startDate" : "2019 11 2 10 10 10",
 	"endDate" : "2019 11 12 23 59 59",
 	"imageMethod" : "page",
-	
 	"desktopImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner_-1.jpg",
 		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner_-1.jpg",
@@ -43,7 +42,6 @@
 		"premium-verified" : false,
 		"all" : false
 	},
-	
 	"mobileImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.png",
 		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/HargaBaru_OCT.png",
@@ -83,7 +81,6 @@
 		"premium-verified" : false,
 		"all" : false
 	},
-	
 	"macintoshImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner_-1.jpg",
 		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner_-1.jpg",
@@ -123,7 +120,6 @@
 		"premium-verified" : false,
 		"all" : false
 	},
-	
     "iphoneImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
 		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
