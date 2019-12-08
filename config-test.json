@@ -1,7 +1,7 @@
 {
 	"status" : true,
 	"startDate" : "2019 11 03 10 10 10",
-	"endDate" : "2019 11 03 23 59 59",
+	"endDate" : "2019 11 23 23 59 59",
 	"imageMethod" : "page",
     "desktopImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/test-banner-to.png",
