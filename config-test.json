@@ -38,7 +38,7 @@
 		"guest" : true,
 		"member" : true,
 		"member-verified" : true,
-		"premium" : false,
+		"premium" : true,
 		"premium-verified" : false,
 		"all" : false
 	},
@@ -77,7 +77,7 @@
 		"guest" : true,
 		"member" : true,
 		"member-verified" : true,
-		"premium" : false,
+		"premium" : true,
 		"premium-verified" : false,
 		"all" : false
 	},
@@ -116,7 +116,7 @@
 		"guest" : true,
 		"member" : true,
 		"member-verified" : true,
-		"premium" : false,
+		"premium" : true,
 		"premium-verified" : false,
 		"all" : false
 	},
@@ -155,7 +155,7 @@
 		"guest" : true,
 		"member" : true,
 		"member-verified" : true,
-		"premium" : false,
+		"premium" : true,
 		"premium-verified" : false,
 		"all" : false
 	}
