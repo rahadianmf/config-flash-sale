@@ -5,9 +5,9 @@
 	"imageMethod" : "page",
     "desktopImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/test-banner-to.png",
-		"member" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
-		"member-verified" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
-		"premium" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
+		"regular-unverified" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
+		"regular-verified" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
+		"premium-unverified" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
 		"premium-verified" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg",
 		"all" : "https://www.zenius.net/assets/img/2019-10/flash-sale-desktop.jpg"	
 	},
@@ -20,9 +20,9 @@
 	},
 	"desktopUrlByRole" : {
 		"guest" : "https://fdl.zenius.net/mobile/appinstall-promo30",
-		"member" : "https://fdl.zenius.net/mobile/appinstall-promo31",
-		"member-verified" : "https://fdl.zenius.net/mobile/appinstall-promo31",
-		"premium" : "https://fdl.zenius.net/mobile/appinstall-promo32",
+		"regular-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo31",
+		"regular-verified" : "https://fdl.zenius.net/mobile/appinstall-promo31",
+		"premium-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo32",
 		"premium-verified" : "https://fdl.zenius.net/mobile/appinstall-promo32",
 		"all" : "https://fdl.zenius.net/mobile/appinstall-promo33"
 	},
@@ -36,17 +36,17 @@
 	"desktopRole" : {
 		"inactive" : false,
 		"guest" : true,
-		"member" : true,
-		"member-verified" : true,
-		"premium" : true,
+		"regular-unverified" : true,
+		"regular-verified" : true,
+		"premium-unverified" : true,
 		"premium-verified" : false,
 		"all" : false
 	},
     "mobileImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
-		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
-		"member-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
-		"premium" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
+		"regular-unverified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
+		"regular-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
+		"premium-unverified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
 		"premium-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
 		"all" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg"	
 	},
@@ -59,9 +59,9 @@
 	},
     "mobileUrlByRole" : {	
 		"guest" : "https://fdl.zenius.net/mobile/appinstall-promo34",
-		"member" : "https://fdl.zenius.net/mobile/appinstall-promo35",
-		"member-verified" : "https://fdl.zenius.net/mobile/appinstall-promo35",
-		"premium" : "https://fdl.zenius.net/mobile/appinstall-promo36",
+		"regular-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo35",
+		"regular-verified" : "https://fdl.zenius.net/mobile/appinstall-promo35",
+		"premium-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo36",
 		"premium-verified" : "https://fdl.zenius.net/mobile/appinstall-promo36",
 		"all" : "https://fdl.zenius.net/mobile/appinstall-promo37"
 	},
@@ -75,17 +75,17 @@
 	"mobileRole" : {
 		"inactive" : false,
 		"guest" : true,
-		"member" : true,
-		"member-verified" : true,
-		"premium" : true,
+		"regular-unverified" : true,
+		"regular-verified" : true,
+		"premium-unverified" : true,
 		"premium-verified" : false,
 		"all" : false
 	},
     "macintoshImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-		"member-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-		"premium" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
+		"regular-unverified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
+		"regular-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
+		"premium-unverified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
 		"premium-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
 		"all" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png"	
 	},
@@ -98,9 +98,9 @@
 	},
     "macintoshUrlByRole" : {
 		"guest" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
-		"member" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0918",
-		"member-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0918",
-		"premium" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0917",
+		"regular-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0918",
+		"regular-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0918",
+		"premium-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0917",
 		"premium-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0917",
 		"all" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0916"
 	},
@@ -114,17 +114,17 @@
 	"macintoshRole" : {
 		"inactive" : false,
 		"guest" : true,
-		"member" : true,
-		"member-verified" : true,
-		"premium" : true,
+		"regular-unverified" : true,
+		"regular-verified" : true,
+		"premium-unverified" : true,
 		"premium-verified" : false,
 		"all" : false
 	},
     "iphoneImgByRole" : {
 		"guest" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
-		"member" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
-		"member-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
-		"premium" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+		"regular-unverified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+		"regular-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+		"premium-unverified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
 		"premium-verified" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
 		"all" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg"	
 	},
@@ -137,9 +137,9 @@
 	},
     "iphoneUrlByRole" : {
 		"guest" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0915",
-		"member" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0914",
-		"member-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0914",
-		"premium" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0913",
+		"regular-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0914",
+		"regular-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0914",
+		"premium-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0913",
 		"premium-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0913",
 		"all" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0912"
 	},
@@ -153,9 +153,9 @@
 	"iphoneRole" : {
 		"inactive" : false,
 		"guest" : true,
-		"member" : true,
-		"member-verified" : true,
-		"premium" : true,
+		"regular-unverified" : true,
+		"regular-verified" : true,
+		"premium-unverified" : true,
 		"premium-verified" : false,
 		"all" : false
 	}
