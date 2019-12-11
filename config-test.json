@@ -18,10 +18,10 @@
 		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/12/Web-Banner_Awards.jpg"	
 	},
 	"desktopUrlByRole" : {
-		"guest" : "https://fdl.zenius.net/mobile/appinstall-promo30",
-		"regular-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo31",
+		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
+		"regular-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Regular&utm_campaign=Akses-Bebas",
 		"regular-verified" : "https://fdl.zenius.net/mobile/appinstall-promo31",
-		"premium-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo32",
+		"premium-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Premium&utm_campaign=Akses-Bebas",
 		"premium-verified" : "https://fdl.zenius.net/mobile/appinstall-promo32"
 	},
 	"desktopUrlByPage" : {
@@ -54,10 +54,10 @@
 		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/12/HargaBaru_Awards.jpg"	
 	},
     "mobileUrlByRole" : {	
-		"guest" : "https://fdl.zenius.net/mobile/appinstall-promo34",
-		"regular-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo35",
+		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
+		"regular-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Regular&utm_campaign=Akses-Bebas",
 		"regular-verified" : "https://fdl.zenius.net/mobile/appinstall-promo35",
-		"premium-unverified" : "https://fdl.zenius.net/mobile/appinstall-promo36",
+		"premium-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Premium&utm_campaign=Akses-Bebas",
 		"premium-verified" : "https://fdl.zenius.net/mobile/appinstall-promo36"
 	},
 	"mobileUrlByPage" : {
@@ -90,10 +90,10 @@
 		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/12/Web-Banner_Awards.jpg"	
 	},
     "macintoshUrlByRole" : {
-		"guest" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
-		"regular-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0918",
+		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
+		"regular-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Regular&utm_campaign=Akses-Bebas",
 		"regular-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0918",
-		"premium-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0917",
+		"premium-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Premium&utm_campaign=Akses-Bebas",
 		"premium-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0917"
 	},
 	"macintoshUrlByPage" : {
@@ -126,10 +126,10 @@
 		"downloadSoal" : "https://zeniuseducation.com/wp-content/uploads/2019/12/HargaBaru_Awards.jpg"	
 	},
     "iphoneUrlByRole" : {
-		"guest" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0915",
-		"regular-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0914",
+		"guest" : "https://www.zeniusnet.com/sign-up?utm_source=Internal&utm_medium=Internal-Flash-Banner-Guest&utm_campaign=Akses-Bebas",
+		"regular-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Regular&utm_campaign=Akses-Bebas",
 		"regular-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0914",
-		"premium-unverified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0913",
+		"premium-unverified" : "https://www.zeniusnet.com/phone-number-verification?utm_source=Internal&utm_medium=Internal-Flash-Banner-Premium&utm_campaign=Akses-Bebas",
 		"premium-verified" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0913"
 	},
 	"iphoneUrlByPage" : {
